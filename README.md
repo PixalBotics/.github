@@ -17,7 +17,7 @@
   <a href="https://pixalbotics.com/">
     <img src="https://img.shields.io/badge/🚀%20Visit%20Website-Pixalbotics-blueviolet?style=for-the-badge" />
   </a>
-  <a href="mailto:alihasan12soft786@gmail.com">
+  <a href="mailto:pixalbotics@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Hire%20Us-Contact-success?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/🌍%20Remote-Worldwide-important?style=for-the-badge" />
